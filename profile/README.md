@@ -1,11 +1,11 @@
-## 🌱 About
+## About
 Building small, fun apps focused on **social experiences** and **simplicity**.  
 
 - 🗳️ **Lurp** — a new kind of social polls app
 - 🤓 **Math app** — a work in progress 👀
 - 💬 More coming soon!  
 
-## 🛠️ Stack
+## Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5A5F?logo=astro&logoColor=white)
