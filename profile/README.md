@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/120x120.png?text=Lurp+Logo" width="120" alt="Lurp Logo"/>
+  <img src="https://wopuff.com/icons/icon-192x192-transparent.png" width="120" alt="Wopuff Logo"/>
 
   # Wopuff
   *Playful apps for curious people ✨*
@@ -7,30 +7,26 @@
 
 ---
 
-## 🌱 About Us
-We’re building small but meaningful apps with personality.  
-Our focus is on **social experiences**, **simplicity**, and a little bit of fun.
+## 🌱 About
+Building small, fun apps focused on **social experiences** and **simplicity**.  
 
-- 🗳️ **Lurp** — a new kind of social polls app  
-- 💬 More projects coming soon!
+- 🗳️ **Lurp** — a new kind of social polls app    
+- 💬 More coming soon!
 
 ---
 
-## 🛠️ Our Stack
-We love building with modern, lightweight tools:
-
+## 🛠️ Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5A5F?logo=astro&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-0093DD?logo=postgresql&logoColor=white)
+![✨ Animated](https://img.shields.io/badge/✨-fun-blue?style=for-the-badge&logo=github&logoColor=white&animation=glitch)
 
 ---
 
 ## 📬 Connect
-- 🌐 [Website](https://wopuff.com) 
-- ✉️ [Contact](mailto:hi@wopuff.com)
+🌐 [Website](https://wopuff.com) | ✉️ [hi@wopuff.com](mailto:hi@wopuff.com)
 
 ---
 
