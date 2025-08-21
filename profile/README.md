@@ -5,7 +5,7 @@ Building small, fun apps focused on **social experiences** and **simplicity**.
 - 🤓 **Math app** — a work in progress 👀
 - 💬 More coming soon!  
 
-We also love **community input**—check out our [Discussions](https://github.com/your-username/discussions) to suggest features, share ideas, or chat with us.
+We also love **community input**—check out our [Discussions](https://github.com/wopuff/discussions) to suggest features, share ideas, or chat with us.
 
 ## Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
