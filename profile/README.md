@@ -13,6 +13,8 @@ Building small, fun apps focused on **social experiences** and **simplicity**.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-0093DD?logo=postgresql&logoColor=white)
 
+We also love **community input**—check out our [Discussions](https://github.com/your-username/discussions) to suggest features, share ideas, or chat with us.
+
 ## 📬 Connect
 📪 [Email](mailto:hi@wopuff.com) | 🌐 [Website](https://wopuff.com)
 
