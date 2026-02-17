@@ -5,7 +5,7 @@ Building small, fun apps focused on **social experiences** and **simplicity**.
 - 🤓 **MeMather** – <a href="https://memather.com">memather.com</a> – an interactive mental math app 
 - 💬 More coming soon!  
 
-We also love **community input**—check out our [Discussions](https://github.com/orgs/wopuff/discussions) to suggest features, share ideas, or chat with us.
+We also love **community input** – check out our [Discussions](https://github.com/orgs/wopuff/discussions) to suggest features, share ideas, or chat with us.
 
 
 ## Stack
