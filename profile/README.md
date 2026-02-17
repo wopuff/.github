@@ -1,8 +1,8 @@
 ## About
 Building small, fun apps focused on **social experiences** and **simplicity**.  
 
-- 🗳️ **Lurp** — a new kind of social polls app
-- 🤓 **MeMather** — a work in progress 👀
+- 🗳️ **Lurp** – <a href="https://www.lurp.it">lurp.it</a> – a new kind of social polls app 
+- 🤓 **MeMather** – <a href="https://memather.com">memather.com</a> – an interactive mental math app 
 - 💬 More coming soon!  
 
 We also love **community input**—check out our [Discussions](https://github.com/orgs/wopuff/discussions) to suggest features, share ideas, or chat with us.
