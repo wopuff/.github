@@ -1,7 +1,7 @@
 ## About
 Building small, fun apps focused on **social experiences** and **simplicity**.  
 
-- 🗳️ **Lurp** – <a href="https://www.lurp.it">www.lurp.it</a> – a new kind of social polls app 
+- 🗳️ **Lurp** – <a href="https://www.lurp.it/en">www.lurp.it</a> – a new kind of social polls app 
 - 🤓 **MeMather** – <a href="https://memather.com">memather.com</a> – an interactive mental math app 
 - 💬 More coming soon!  
 
