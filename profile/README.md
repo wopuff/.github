@@ -25,7 +25,7 @@ We also love **community input** – check out our [Discussions](https://github.
 
 
 ## Connect
-📪 [Email](mailto:hi@wopuff.com)&nbsp; hi<span>@</span>wopuff.com &nbsp; | &nbsp; 🌐 [Website](https://wopuff.com)&nbsp; wopuff.com
+📪 [Email](mailto:hi@wopuff.com)&nbsp; hi<span>@</span>wopuff.com &nbsp; | &nbsp; 🌐 [Website](https://wopuff.com/en)&nbsp; wopuff.com
 
 <div align="center">
   <sub>Made with ❤️ by the Wopuff team</sub>
